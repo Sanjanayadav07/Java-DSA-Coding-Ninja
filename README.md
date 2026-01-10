@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Active%20Learner-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interview-Preparation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Coding%20Ninjas-DSA-DD6620?style=for-the-badge" />
+
 </p>
 
 <p align="center">
@@ -114,6 +115,10 @@ Data-Structures-and-Algorithm-Coding-Ninja/
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" />
 </p>
+
+![Repo Size](https://img.shields.io/github/repo-size/Sanjanayadav07/Data-Structures-and-Algorithm-Coding-Ninja?style=for-the-badge)
+![License](https://img.shields.io/github/license/Sanjanayadav07/Data-Structures-and-Algorithm-Coding-Ninja?style=for-the-badge)
+
 
 ⭐ If this repository inspires you, don’t forget to **star** it!
 

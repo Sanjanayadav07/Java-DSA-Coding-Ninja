@@ -90,6 +90,7 @@ public class Solution {
 - Constructor (Inorder traversal) → O(N)
 - next() → O(1)
 - hasNext() → O(1)
+  
 ### 📦 Space Complexity
 - O(N)
 - Because we store all BST nodes in an ArrayList.

@@ -20,7 +20,6 @@ Use:
 - 🔴 Color 0
 
 If any edge connects same color nodes → ❌ Not Bipartite
-
 ---
 
 ## 🛠️ Approach (BFS)

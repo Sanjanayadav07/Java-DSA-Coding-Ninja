@@ -76,6 +76,7 @@ public class Solution {
     }
 }
 ```
+
 ---
 ## 📖 State Flow
 - txn = 0 → First Buy

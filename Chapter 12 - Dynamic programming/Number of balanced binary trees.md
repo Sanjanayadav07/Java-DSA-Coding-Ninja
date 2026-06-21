@@ -24,7 +24,6 @@ dp[h-1]^2 + 2 * dp[h-1] * dp[h-2]
 
 ---
 ## Code 
-
 ```
 import java.util.* ;
 import java.io.*; 

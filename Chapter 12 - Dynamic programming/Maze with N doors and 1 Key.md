@@ -104,3 +104,11 @@ public class Solution {
         return f(0, 0, n, maze) <= 1;
     }
 }
+```
+---
+## Time Complexity
+- O(N²)
+- Each cell is computed only once because of memoization.
+## Space Complexity
+- O(N²)
+- DP table stores results for all states.

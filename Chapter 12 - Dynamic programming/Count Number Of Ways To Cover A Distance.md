@@ -80,3 +80,11 @@ public class Solution {
         return (int) dp[n];
     }
 }
+```
+---
+### Time Complexity
+- O(n)
+- We compute each DP state exactly once.
+### Space Complexity
+- O(n)
+- DP array of size n + 1 is used.

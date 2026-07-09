@@ -52,7 +52,7 @@ There is exactly one way to cover distance 0: do nothing.
 
 ---
 
-# Code
+## Code
 
 ```java
 import java.util.*;
